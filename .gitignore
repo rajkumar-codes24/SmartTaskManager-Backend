@@ -39,3 +39,9 @@ target/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Unnecessary project files
+.junie/
+.idea/
+*.log
+target/
